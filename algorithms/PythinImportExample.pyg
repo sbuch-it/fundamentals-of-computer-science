@@ -1,0 +1,2 @@
+def boring(args = None):
+pass
